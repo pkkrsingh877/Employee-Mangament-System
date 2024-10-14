@@ -1,0 +1,15 @@
+.employee {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+    background-color: #f9f9f9;
+}
+.employee-name {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
+.employee-details {
+    font-size: 1em;
+    margin-bottom: 8px;
+}
